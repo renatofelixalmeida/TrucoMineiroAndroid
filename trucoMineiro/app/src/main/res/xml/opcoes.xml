@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PreferenceScreen xmlns:android="http://schemas.android.com/apk/res/android">
+    <PreferenceCategory android:title="@string/tituloCategoria5" android:key="categoria1">
+        <CheckBoxPreference android:title="@string/tituloDoisFechada" android:defaultValue="false" android:summary="@string/textoDoisFechada" android:key="doisFechada" />
+        <CheckBoxPreference android:title="@string/tituloAbreQuemAmarra" android:defaultValue="false" android:summary="@string/textoAbreQuemAmarra" android:key="amarraAbre" />
+        <CheckBoxPreference android:title="@string/tituloMaoDezAberta" android:defaultValue="true" android:summary="@string/textoMaoDezAberta" android:key="maoDezAberta" />
+    </PreferenceCategory>
+
+    <PreferenceCategory android:title="@string/tituloCategoria1" android:key="categoria1">
+        <ListPreference android:key="meuJogador" android:entryValues="@array/jogadorValor" android:entries="@array/jogadorTitulo" android:title="@string/tituloMeuJogador" android:summary="@string/textoMeuJogador" android:defaultValue="0" android:enabled="true"/>
+        <ListPreference android:entries="@array/revezarTitulos" android:entryValues="@array/revezarValores" android:key="revezar" android:title="@string/tituloRevesar" android:summary="@string/textoRevesar" android:defaultValue="0"/>        
+    </PreferenceCategory>
+    <PreferenceCategory android:title="@string/tituloCategoria2" android:key="categoria2">
+			<ListPreference android:defaultValue="0" android:title="@string/tituloParceiro" android:key="forca2" android:entryValues="@array/forcaValor" android:entries="@array/forcaTitulo" android:summary="@string/textoParceiro"/>        
+        	<ListPreference android:defaultValue="0" android:title="@string/tituloAdversario1" android:key="forca1" android:entryValues="@array/forcaValor" android:entries="@array/forcaTitulo" android:summary="@string/textoAdversario1"/>
+			<ListPreference android:defaultValue="0" android:title="@string/tituloAdversario2" android:key="forca3" android:entryValues="@array/forcaValor" android:entries="@array/forcaTitulo" android:summary="@string/textoAdversario2"/>                
+    </PreferenceCategory>
+    <PreferenceCategory android:title="@string/tituloCategoria3" android:key="categoria3">
+        <ListPreference android:title="@string/tituloSinal" android:entries="@array/sinalTitulos" android:summary="@string/textoSinal" android:key="tipoSinal" android:entryValues="@array/sinalValores" android:defaultValue="3"/>
+        <ListPreference android:entries="@array/forcaSinalTitulos" android:key="listaForcaSinal" android:entryValues="@array/forcaSinalValores" android:title="@string/tituloSinalForca" android:summary="@string/textoSinalForca" android:defaultValue="13"/>
+    </PreferenceCategory>
+    <PreferenceCategory android:key="categoria4" android:title="@string/tituloCategoria4">
+        <ListPreference android:entryValues="@array/valoresGrito" android:entries="@array/titulosGrito" android:title="@string/tituloGrito" android:summary="@string/textoGrito" android:key="gritar" android:defaultValue="0"/>
+    </PreferenceCategory>
+</PreferenceScreen>

@@ -1,0 +1,7 @@
+#Sun Jul 02 08:04:43 BRT 2017
+base.0=C\:\\Users\\renat\\StudioProjects\\trucoMineiro\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run_5ed0e29102938c49f00691f9ede01cc97c969726
+renamed.1=classes.dex
+renamed.0=classes2.dex
+file.1=C\:\\Users\\renat\\StudioProjects\\trucoMineiro\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run-bootstrap_6d1c6d5cc4ac21408972d991ca81b0b522868acc\\classes.dex
+base.1=C\:\\Users\\renat\\StudioProjects\\trucoMineiro\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run-bootstrap_6d1c6d5cc4ac21408972d991ca81b0b522868acc
+file.0=C\:\\Users\\renat\\StudioProjects\\trucoMineiro\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run_5ed0e29102938c49f00691f9ede01cc97c969726\\classes.dex

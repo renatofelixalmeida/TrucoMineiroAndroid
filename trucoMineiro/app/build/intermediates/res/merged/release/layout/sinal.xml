@@ -1,0 +1,186 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    android:orientation="vertical" 
+    android:background="#ffffff">
+
+	<TextView
+		android:id="@+id/textView"
+		android:layout_width="match_parent"
+		android:layout_height="wrap_content"
+		android:text="Configuração dos sinais"
+		android:gravity="center_horizontal"
+		android:textColor="#000"
+		android:textStyle="bold"
+		android:textSize="20dp"/>
+
+	<TableLayout
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical" >
+        <TableRow 
+            android:layout_width="fill_parent">
+            <LinearLayout
+                android:layout_width="0dp"
+                android:layout_height="wrap_content"
+                android:layout_gravity="center_vertical"
+                android:layout_weight="50"
+                android:orientation="vertical" >
+                <TextView 
+                    android:layout_width="fill_parent"
+                    android:layout_height="wrap_content"
+                    />
+                <Spinner
+                    android:id="@+id/nomeJogador"
+                    android:layout_width="fill_parent"
+                    android:layout_height="wrap_content"
+                    android:entries="@array/jogadorTitulo" />
+
+                <Spinner
+                    android:id="@+id/carta"
+                    android:layout_width="fill_parent"
+                    android:layout_height="wrap_content"
+                    android:entries="@array/forcaSinalTitulos" />
+
+                <Spinner
+                    android:id="@+id/velocidadeExibicao"
+                    android:layout_width="fill_parent"
+                    android:layout_height="wrap_content"
+                    android:entries="@array/velocidadeSinal" />
+                <TextView 
+                    android:layout_width="fill_parent"
+                    android:layout_height="wrap_content"
+                    />
+                <TextView 
+                    android:layout_width="fill_parent"
+                    android:layout_height="wrap_content"
+                    />                
+            </LinearLayout>
+
+            <LinearLayout
+                android:layout_width="0dp"
+                android:layout_height="wrap_content"
+                android:layout_weight="50"
+                android:orientation="vertical" >
+
+                <ImageView
+                    android:id="@+id/foto1"
+                    android:layout_width="fill_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_gravity="top"
+                    android:contentDescription="@string/hello"
+                    android:onClick="exibirDescricao" />
+            </LinearLayout>
+        </TableRow>
+        <TableRow >
+            <TextView />
+        </TableRow>
+        </TableLayout>
+            <TableLayout
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical" >
+		<TableRow>
+			<Spinner
+				android:id="@+id/sinal1"
+				android:layout_width="0dp"
+				android:layout_height="wrap_content"
+				android:layout_weight="50"
+				android:entries="@array/tipoSinais" />
+
+			<Spinner
+				android:id="@+id/sinal2"
+				android:layout_width="0dp"
+				android:layout_height="wrap_content"
+				android:layout_weight="50"
+				android:entries="@array/tipoSinais" />
+        </TableRow>
+		<TableRow>
+
+			<Spinner
+				android:id="@+id/sinal3"
+				android:layout_width="0dp"
+				android:layout_height="wrap_content"
+				android:layout_weight="50"
+				android:entries="@array/tipoSinais" />
+
+			<Spinner
+				android:id="@+id/sinal4"
+				android:layout_width="0dp"
+				android:layout_height="wrap_content"
+				android:layout_weight="50"
+				android:entries="@array/tipoSinais" />
+        </TableRow>
+		<TableRow>
+			<Spinner
+				android:id="@+id/sinal5"
+				android:layout_width="0dp"
+				android:layout_height="wrap_content"
+				android:layout_weight="50"
+				android:entries="@array/tipoSinais" />
+
+			<Spinner
+				android:id="@+id/sinal6"
+				android:layout_width="0dp"
+				android:layout_height="wrap_content"
+				android:layout_weight="50"
+				android:entries="@array/tipoSinais" />
+        </TableRow>
+		<TableRow>
+			<Spinner
+				android:id="@+id/sinal7"
+				android:layout_width="0dp"
+				android:layout_height="wrap_content"
+				android:layout_weight="50"
+				android:entries="@array/tipoSinais" />
+
+			<Spinner
+				android:id="@+id/sinal8"
+				android:layout_width="0dp"
+				android:layout_height="wrap_content"
+				android:layout_weight="50"
+				android:entries="@array/tipoSinais" />
+        </TableRow>
+		<TableRow>
+			<Spinner
+				android:id="@+id/sinal9"
+				android:layout_width="0dp"
+				android:layout_height="wrap_content"
+				android:layout_weight="50"
+				android:entries="@array/tipoSinais" />
+
+			<Spinner
+				android:id="@+id/sinal10"
+				android:layout_width="0dp"
+				android:layout_height="wrap_content"
+				android:layout_weight="50"
+				android:entries="@array/tipoSinais" />
+        </TableRow>
+		<TableRow>
+			<TextView
+				android:id="@+id/textView4"
+				android:layout_width="wrap_content"
+				android:layout_height="wrap_content"
+				android:layout_weight="1" />
+
+			<TextView
+				android:id="@+id/textView5"
+				android:layout_width="wrap_content"
+				android:layout_height="wrap_content"
+				android:layout_weight="1" />
+		</TableRow>
+	</TableLayout>
+    <LinearLayout
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center_vertical"
+        android:orientation="vertical" >
+		<Button 
+            android:layout_width="fill_parent"
+	        android:layout_height="wrap_content"
+			android:text="@string/mSair"
+			android:onClick="sairSinal"		    
+		    />
+    </LinearLayout>	
+</LinearLayout>

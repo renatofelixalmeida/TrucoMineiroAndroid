@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android" >
+    <item
+        android:id="@+id/menuitem_creditos"
+        android:icon="@android:drawable/ic_menu_help"
+        android:title="@string/mCreditos"/>
+    <item
+        android:id="@+id/menuitem_regras"
+        android:icon="@android:drawable/ic_menu_agenda"
+        android:title="@string/mRegras"/>
+    <item
+        android:id="@+id/menuitem_historia"
+        android:icon="@android:drawable/ic_menu_recent_history"
+        android:title="@string/mHistoria"/>
+    <item
+        android:id="@+id/menuitem_sinais_truco"
+        android:icon="@android:drawable/ic_menu_view"
+        android:title="@string/mSinais"/>      
+    <item
+        android:id="@+id/menuitem_sobre"
+        android:icon="@android:drawable/ic_menu_info_details"
+        android:title="@string/mEstatisticas"/>
+    <item
+        android:id="@+id/menuitem_ajuda"
+        android:icon="@android:drawable/ic_menu_help"
+        android:title="@string/mAjuda"/>
+</menu>

@@ -1,0 +1,361 @@
+<?xml version="1.0" encoding="utf-8"?>
+<merger version="3"><dataSet config="main$Generated" generated="true"><source path="C:\Users\renat\StudioProjects\trucoMineiro\app\src\main\res"/><source path="C:\Users\renat\StudioProjects\trucoMineiro\app\build\generated\res\rs\debug"/><source path="C:\Users\renat\StudioProjects\trucoMineiro\app\build\generated\res\resValues\debug"/></dataSet><dataSet config="debug$Generated" generated="true"><source path="C:\Users\renat\StudioProjects\trucoMineiro\app\src\debug\res"/></dataSet><dataSet config="main" generated-set="main$Generated"><source path="C:\Users\renat\StudioProjects\trucoMineiro\app\src\main\res"><file name="borda_dialogo" path="C:\Users\renat\StudioProjects\trucoMineiro\app\src\main\res\drawable\borda_dialogo.xml" qualifiers="" type="drawable"/><file name="icon" path="C:\Users\renat\StudioProjects\trucoMineiro\app\src\main\res\drawable\icon.png" qualifiers="" type="drawable"/><file name="menuprincipal" path="C:\Users\renat\StudioProjects\trucoMineiro\app\src\main\res\drawable\menuprincipal.png" qualifiers="" type="drawable"/><file name="menuprincipal" path="C:\Users\renat\StudioProjects\trucoMineiro\app\src\main\res\drawable-hdpi\menuprincipal.png" qualifiers="hdpi-v4" type="drawable"/><file name="menuprincipal" path="C:\Users\renat\StudioProjects\trucoMineiro\app\src\main\res\drawable-ldpi\menuprincipal.png" qualifiers="ldpi-v4" type="drawable"/><file name="menuprincipal" path="C:\Users\renat\StudioProjects\trucoMineiro\app\src\main\res\drawable-mdpi\menuprincipal.png" qualifiers="mdpi-v4" type="drawable"/><file name="menuprincipal" path="C:\Users\renat\StudioProjects\trucoMineiro\app\src\main\res\drawable-nodpi\menuprincipal.png" qualifiers="nodpi-v4" type="drawable"/><file name="menuprincipal" path="C:\Users\renat\StudioProjects\trucoMineiro\app\src\main\res\drawable-xhdpi\menuprincipal.png" qualifiers="xhdpi-v4" type="drawable"/><file name="sinal" path="C:\Users\renat\StudioProjects\trucoMineiro\app\src\main\res\layout\sinal.xml" qualifiers="" type="layout"/><file name="titulo" path="C:\Users\renat\StudioProjects\trucoMineiro\app\src\main\res\layout\titulo.xml" qualifiers="" type="layout"/><file name="truco" path="C:\Users\renat\StudioProjects\trucoMineiro\app\src\main\res\layout\truco.xml" qualifiers="" type="layout"/><file name="base" path="C:\Users\renat\StudioProjects\trucoMineiro\app\src\main\res\menu\base.xml" qualifiers="" type="menu"/><file name="titulo" path="C:\Users\renat\StudioProjects\trucoMineiro\app\src\main\res\menu\titulo.xml" qualifiers="" type="menu"/><file name="truco" path="C:\Users\renat\StudioProjects\trucoMineiro\app\src\main\res\menu\truco.xml" qualifiers="" type="menu"/><file name="aceita1" path="C:\Users\renat\StudioProjects\trucoMineiro\app\src\main\res\raw\aceita1.ogg" qualifiers="" type="raw"/><file name="aceita2" path="C:\Users\renat\StudioProjects\trucoMineiro\app\src\main\res\raw\aceita2.ogg" qualifiers="" type="raw"/><file name="aceita3" path="C:\Users\renat\StudioProjects\trucoMineiro\app\src\main\res\raw\aceita3.ogg" qualifiers="" type="raw"/><file name="aceita4" path="C:\Users\renat\StudioProjects\trucoMineiro\app\src\main\res\raw\aceita4.ogg" qualifiers="" type="raw"/><file name="empata_jogo1" path="C:\Users\renat\StudioProjects\trucoMineiro\app\src\main\res\raw\empata_jogo1.ogg" qualifiers="" type="raw"/><file name="empata_jogo2" path="C:\Users\renat\StudioProjects\trucoMineiro\app\src\main\res\raw\empata_jogo2.ogg" qualifiers="" type="raw"/><file name="empata_jogo3" path="C:\Users\renat\StudioProjects\trucoMineiro\app\src\main\res\raw\empata_jogo3.ogg" qualifiers="" type="raw"/><file name="empata_jogo4" path="C:\Users\renat\StudioProjects\trucoMineiro\app\src\main\res\raw\empata_jogo4.ogg" qualifiers="" type="raw"/><file name="ganha_jogo1" path="C:\Users\renat\StudioProjects\trucoMineiro\app\src\main\res\raw\ganha_jogo1.ogg" qualifiers="" type="raw"/><file name="ganha_jogo2" path="C:\Users\renat\StudioProjects\trucoMineiro\app\src\main\res\raw\ganha_jogo2.ogg" qualifiers="" type="raw"/><file name="ganha_jogo3" path="C:\Users\renat\StudioProjects\trucoMineiro\app\src\main\res\raw\ganha_jogo3.ogg" qualifiers="" type="raw"/><file name="ganha_jogo4" path="C:\Users\renat\StudioProjects\trucoMineiro\app\src\main\res\raw\ganha_jogo4.ogg" qualifiers="" type="raw"/><file name="nove1" path="C:\Users\renat\StudioProjects\trucoMineiro\app\src\main\res\raw\nove1.ogg" qualifiers="" type="raw"/><file name="nove2" path="C:\Users\renat\StudioProjects\trucoMineiro\app\src\main\res\raw\nove2.ogg" qualifiers="" type="raw"/><file name="nove3" path="C:\Users\renat\StudioProjects\trucoMineiro\app\src\main\res\raw\nove3.ogg" qualifiers="" type="raw"/><file name="nove4" path="C:\Users\renat\StudioProjects\trucoMineiro\app\src\main\res\raw\nove4.ogg" qualifiers="" type="raw"/><file name="onze_nao1" path="C:\Users\renat\StudioProjects\trucoMineiro\app\src\main\res\raw\onze_nao1.ogg" qualifiers="" type="raw"/><file name="onze_nao2" path="C:\Users\renat\StudioProjects\trucoMineiro\app\src\main\res\raw\onze_nao2.ogg" qualifiers="" type="raw"/><file name="onze_nao3" path="C:\Users\renat\StudioProjects\trucoMineiro\app\src\main\res\raw\onze_nao3.ogg" qualifiers="" type="raw"/><file name="onze_nao4" path="C:\Users\renat\StudioProjects\trucoMineiro\app\src\main\res\raw\onze_nao4.ogg" qualifiers="" type="raw"/><file name="onze_sim1" path="C:\Users\renat\StudioProjects\trucoMineiro\app\src\main\res\raw\onze_sim1.ogg" qualifiers="" type="raw"/><file name="onze_sim2" path="C:\Users\renat\StudioProjects\trucoMineiro\app\src\main\res\raw\onze_sim2.ogg" qualifiers="" type="raw"/><file name="onze_sim3" path="C:\Users\renat\StudioProjects\trucoMineiro\app\src\main\res\raw\onze_sim3.ogg" qualifiers="" type="raw"/><file name="onze_sim4" path="C:\Users\renat\StudioProjects\trucoMineiro\app\src\main\res\raw\onze_sim4.ogg" qualifiers="" type="raw"/><file name="recusa1" path="C:\Users\renat\StudioProjects\trucoMineiro\app\src\main\res\raw\recusa1.ogg" qualifiers="" type="raw"/><file name="recusa2" path="C:\Users\renat\StudioProjects\trucoMineiro\app\src\main\res\raw\recusa2.ogg" qualifiers="" type="raw"/><file name="recusa3" path="C:\Users\renat\StudioProjects\trucoMineiro\app\src\main\res\raw\recusa3.ogg" qualifiers="" type="raw"/><file name="recusa4" path="C:\Users\renat\StudioProjects\trucoMineiro\app\src\main\res\raw\recusa4.ogg" qualifiers="" type="raw"/><file name="seis1" path="C:\Users\renat\StudioProjects\trucoMineiro\app\src\main\res\raw\seis1.ogg" qualifiers="" type="raw"/><file name="seis2" path="C:\Users\renat\StudioProjects\trucoMineiro\app\src\main\res\raw\seis2.ogg" qualifiers="" type="raw"/><file name="seis3" path="C:\Users\renat\StudioProjects\trucoMineiro\app\src\main\res\raw\seis3.ogg" qualifiers="" type="raw"/><file name="seis4" path="C:\Users\renat\StudioProjects\trucoMineiro\app\src\main\res\raw\seis4.ogg" qualifiers="" type="raw"/><file name="truco1" path="C:\Users\renat\StudioProjects\trucoMineiro\app\src\main\res\raw\truco1.ogg" qualifiers="" type="raw"/><file name="truco2" path="C:\Users\renat\StudioProjects\trucoMineiro\app\src\main\res\raw\truco2.ogg" qualifiers="" type="raw"/><file name="truco3" path="C:\Users\renat\StudioProjects\trucoMineiro\app\src\main\res\raw\truco3.ogg" qualifiers="" type="raw"/><file name="truco4" path="C:\Users\renat\StudioProjects\trucoMineiro\app\src\main\res\raw\truco4.ogg" qualifiers="" type="raw"/><file name="vitoria1" path="C:\Users\renat\StudioProjects\trucoMineiro\app\src\main\res\raw\vitoria1.ogg" qualifiers="" type="raw"/><file name="vitoria2" path="C:\Users\renat\StudioProjects\trucoMineiro\app\src\main\res\raw\vitoria2.ogg" qualifiers="" type="raw"/><file name="vitoria3" path="C:\Users\renat\StudioProjects\trucoMineiro\app\src\main\res\raw\vitoria3.ogg" qualifiers="" type="raw"/><file name="vitoria4" path="C:\Users\renat\StudioProjects\trucoMineiro\app\src\main\res\raw\vitoria4.ogg" qualifiers="" type="raw"/><file path="C:\Users\renat\StudioProjects\trucoMineiro\app\src\main\res\values\strings.xml" qualifiers=""><string-array name="balao_ganha_jogo">
+        <item>Fizemos jogo!</item>
+        <item>Estamos na frente!</item>
+        <item>É jogo nosso!!</item>
+        <item>Ganhamos o jogo!</item>
+    </string-array><string name="tituloNovaPartida">Nova Partida</string><string-array name="sinalTitulos">
+    	<item>Nunca</item>
+    	<item>Rápido</item>
+    	<item>Discreto</item>
+    	<item>Normal</item>
+    	<item>Demorado</item>
+    	<item>Cara de Pau</item>
+    </string-array><string-array name="jogadorDescricao">
+        <item>
+             
+            &lt;b>Nome:&lt;/b> Renato&lt;br/>&lt;br/>
+            &lt;b>Idade:&lt;/b> 35 anos&lt;br/>&lt;br/>
+            &lt;b>Naturalidade:&lt;/b> Belo Horizonte-MG&lt;br/>&lt;br/>
+            &lt;b>Características:&lt;/b> Joga com muita segurança e sempre
+            faz uma avaliação lógica antes de jogar. 
+            
+            </item>
+        <item>             
+            
+            &lt;b>Nome:&lt;/b> Félix&lt;br/>&lt;br/>
+            &lt;b>Idade:&lt;/b> 56 anos&lt;br/>&lt;br/>
+            &lt;b>Naturalidade:&lt;/b> Pirapora-MG&lt;br/>&lt;br/>
+            &lt;b>Características:&lt;/b> Tem muita esperteza e malícia na hora de trucar. 
+            Tem também facilidade para identificar quando o adversário está roubando. 
+            
+		</item>
+        <item>
+            
+            &lt;b>Nome:&lt;/b> Luciana&lt;br/>&lt;br/>
+            &lt;b>Idade:&lt;/b> 29 anos&lt;br/>&lt;br/>
+            &lt;b>Naturalidade:&lt;/b> Belo Horizonte-MG&lt;br/>&lt;br/>
+            &lt;b>Características:&lt;/b> A mais bela jogadora de truco do mundo! 
+            Utiliza seu charme e beleza para desconcentrar os adversários. 
+            
+        </item>
+        <item>
+            
+            &lt;b>Nome:&lt;/b> Leila&lt;br/>&lt;br/>
+            &lt;b>Idade:&lt;/b> 30 anos&lt;br/>&lt;br/>
+            &lt;b>Naturalidade:&lt;/b> Jaíba-MG&lt;br/>&lt;br/>
+            &lt;b>Características:&lt;/b> A jogadora mais corajosa do truco. 
+            Não tem medo de trucar nem de aceitar. Só corre em último caso. 
+                        
+        </item>
+    </string-array><string name="titulo_regras">Regras do truco!</string><string name="texto_ajuda">         
+        Este jogo tenta ser uma cópia fiel do jogo de truco jogado com baralho e adversários humanos. As regras são identicas
+        e a estratégia tenta copiar o jogo dos trucadores mineiros.&lt;br/>&lt;br/>
+        O jogo também utiliza vozes para os \"gritos\" normais do truco e possui também o sistema de envio de sinais (do computador
+        para o jogador apenas).&lt;br/>&lt;br/>
+        &lt;b>&lt;u>Opções do menu&lt;/u>&lt;/b>&lt;br/>&lt;br/>
+        &lt;b>Regras do truco&lt;/b> - Mostra as regras do truco utilizadas em Belo Horizonte-MG. Lembre-se que não existe 
+        um conjuntoAs regras universais, por isso você deve consultar as regras aplicadas neste jogo.&lt;br/>&lt;br/>
+        &lt;b>História do truco&lt;/b> - Mostra a história do truco, como, quando e onde ele foi criado e também
+        algumas curiosidades.&lt;br/>&lt;br/>
+        &lt;b>Estatísticas&lt;/b> - Mostra a quantidade de vitórias, derrotas e aproveitamento total e de cada jogador.&lt;br/>&lt;br/>
+        &lt;b>Configurações&lt;/b> - Permite alterar as seguintes configurações do sistema:&lt;br/>&lt;br/>
+        &lt;b>&lt;i>Selecionar Jogador&lt;/i>&lt;/b> - Permite que você selecione o jogador que irá utilizar. São quatro opções: Renato, Félix, Luciana e Leila.&lt;br/>&lt;br/>
+        &lt;b>&lt;i>Revezar Jogador&lt;/b>&lt;/i> - Quando marcado faz com que o jogador seja trocada automáticamente ao final de cada partida.&lt;br/>&lt;br/>
+        &lt;b>&lt;i>Agressividade&lt;/b>&lt;/i> - Definir a agressividade, ou seja, a predisposição do jogador em trucar, aceitar truco e roubar.&lt;br/>&lt;br/>
+        &lt;b>&lt;i>Passar Sinal&lt;/i>&lt;/b> - Configura se e como os sinais serão enviados.&lt;br/>&lt;br/>
+        &lt;b>&lt;i>Cartas para sinal&lt;/i>&lt;/b> - Informa até qual carta o sistema irá enviar os sinais.&lt;br/>&lt;br/>
+        &lt;b>&lt;i>Gritos do jogo&lt;/i>&lt;/b> - Configura como os jogadores irão dizer truco.&lt;br/>&lt;br/>
+        &lt;b>&lt;i>Sair&lt;/b>&lt;/i> - Sai do jogo.&lt;br/>&lt;br/>        
+        		
+    </string><string name="texto_sinais">         
+        Estes são os sinais que o jogo enviará para o jogador no início de cada rodada. 
+        Os sinais serão exibidos apenas uma vez, por isso preste atenção no início de cada mão.&lt;br/>
+        Se os sinais não estiverem aparecendo você deve ativar no menu de configuração.&lt;br/>&lt;br/> 
+        &lt;b>Zap&lt;/b> - Olhar para cima&lt;br/>&lt;br/>
+        &lt;b>Escopeta&lt;/b> - Olhar para baixo&lt;br/>&lt;br/>
+		&lt;b>Espadilha&lt;/b> - Olhar para direita&lt;br/>&lt;br/>
+		&lt;b>Pica-Fummo&lt;/b> - Olhar para esquerda&lt;br/>&lt;br/>
+		&lt;b>Três&lt;/b> - Piscar olho direito&lt;br/>&lt;br/>
+		&lt;b>Dois&lt;/b> - Piscar olho esquerdo&lt;br/>&lt;br/>
+		&lt;b>Az&lt;/b> - Piscar os dois olhos&lt;br/>&lt;br/>
+		&lt;b>Rei&lt;/b> - Piscar olho direito e olhar para direita&lt;br/>&lt;br/>
+		&lt;b>Valete&lt;/b> - Piscar olho esquerdo e olhar para esquerda&lt;br/>&lt;br/>
+		&lt;b>Dama&lt;/b> - Olhar para direita e esquerda&lt;br/>&lt;br/>
+		&lt;b>Sete&lt;/b> - Piscar os olhos alternadamente&lt;br/>&lt;br/>
+		&lt;b>Seis&lt;/b> - Olhar para direita e depois piscar os dois olhos&lt;br/>&lt;br/>
+		&lt;b>Cinco&lt;/b> - Olhar para esquerda e depois piscar os dois olhos&lt;br/>&lt;br/>
+		&lt;b>Quatro&lt;/b> - Fechar os dois olhos&lt;br/>&lt;br/>
+        		
+    </string><string-array name="balao_empata_jogo">
+        <item>Empatamos o jogo!</item>
+        <item>Tudo igual!</item>
+        <item>É jogo a jogo!</item>
+        <item>Tudo empatado!</item>
+    </string-array><string-array name="velocidadeSinal">
+    	<item>Rápido</item>
+    	<item>Discreto</item>
+    	<item>Normal</item>
+    	<item>Demorado</item>
+    	<item>Cara de Pau</item>
+    </string-array><string name="mEstatisticas">Estatísticas</string><string name="texto_historia">         
+		O jogo de Truco foi concebido no século XVII no norte de Minas Gerais, 
+		mais precisamente na região onde estão localizadas atualmente as cidades 
+		de Pirapora e Aruruacamijara do Norte, por padres jesuítas que devido ao 
+		voto de castidade não possuíam nenhuma opção de entretenimento.&lt;br/>&lt;br/>
+		Na passagem para o século XVIII, alguns bandeirantes aprenderam o Truco 
+		com os jesuítas e começaram a difundir o jogo pelo território brasileiro. 
+		O jogo se tornou muito popular durante o ciclo do ouro, principalmente 
+		nas grandes cidades mineiras da época.&lt;br/>&lt;br/>
+		Existem relatos históricos que comprovam que os Inconfidentes eram 
+		na realidade um time de trucadores que, descontentes com a falta de 
+		incentivo a este nobre esporte por parte do governo português, 
+		resolveram libertar o Brasil do domínio de Portugal. Mas Claudio 
+		Manoel da Costa e seus companheiros foram traídos por Joaquim Silvério 
+		dos Reis que era um péssimo jogador, e por isso fora desescalado do time sendo 
+		substituído por Tiradentes, até então um dos mestres do Truco.	Joaquim 
+		Silvério dos Reis revelou então os planos dos Inconfidentes às autoridades 
+		coloniais e ainda disse que o idealizador do plano era o pobre Tiradentes (desafeto 
+		de Silvério por ter tomado seu lugar no time), que foi o que mais se deu mal nessa 
+		história. Como conseqüência, Portugal proibiu o truco e passou a perseguir os trucadores.		
+		
+    </string><string-array name="revezarTitulos">
+    	<item>Nunca</item>
+    	<item>Sempre</item>
+    	<item>Quando ganhar</item>
+    	<item>Quando perder</item>
+    </string-array><string name="titulo_creditos">Créditos</string><string-array name="balao_mao11_nao">
+        <item>Corri pro baralho!</item>
+        <item>Mão de manbaia.</item>
+        <item>Não vou jogar.</item>
+        <item>Não vou.</item>
+    </string-array><string name="tituloCategoria3">Passar Sinal</string><string-array name="balao_aumento_nao">
+        <item>Tô fora ladrão.</item>
+        <item>Quero não!</item>
+        <item>Vou não!</item>
+        <item>Nem vem!</item>
+    </string-array><string name="tituloCategoria2">Agressividade</string><string name="tituloCategoria1">Jogador</string><string-array name="forcaValor">
+        <item>0</item>
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+        <item>4</item>
+        <item>5</item>
+    </string-array><string name="tituloMeuJogador">Selecionar Jogador</string><string-array name="tipoSinais">
+        <item>Encerrar</item>        
+        <item>Normal</item>
+        <item>Olhar Cima</item>
+        <item>Olhar Baixo</item>
+        <item>Olhar Direita</item>
+        <item>Olhar Esquerda</item>
+        <item>Piscar Direito</item>
+        <item>Piscar Esquerdo</item>
+        <item>Piscar Dois</item>
+        <item>Mexer Boca</item>
+    </string-array><string name="textoMeuJogador">Selecione o Jogador que você vai utilizar.</string><string name="tituloCategoria5">Regras do jogo</string><string name="tituloCategoria4">Grito</string><string name="tituloNos">Nós: 0</string><string-array name="jogadorTitulo">
+        <item>Renato</item>
+        <item>Félix</item>
+        <item>Luciana</item>
+        <item>Leila</item>
+    </string-array><string name="titulo_ajuda">Truco Mineiro!</string><string-array name="balao_vitoria">
+        <item>É queda nossa!</item>
+        <item>Mais uma queda!</item>
+        <item>Vitória nossa!</item>
+        <item>Ganhamos a queda!</item>
+    </string-array><string name="tituloJogar">Jogar</string><string name="titulo_historia">História do truco!</string><string name="texto_creditos">         
+    O jogo truco mineiro é baseado no jogo minitruco android de autoria de Carlos Duarte do Nascimento 
+    (Chester) - cd@pobox.com.&lt;br/>&lt;br/>
+    A lista de modificações do jogo em relação ao original segue abaixo dos direitos autorais.&lt;br/>&lt;br/> 
+    Copyright © 2005-2011 Carlos Duarte do Nascimento (Chester) - cd@pobox.com&lt;br/>&lt;br/>
+    Imagens de carta, fundo e logotipo: Copyright © 2010-2011 Vanessa Sabino (Bani)&lt;br/>&lt;br/>
+    Estratégias da CPU: Copyright © 2006-2011 Leonardo Sellani, Sandro Gasparotto&lt;br/>&lt;br/>
+    Adaptação para truco mineiro feita por Renato F. Almeida, com as seguintes modificações:&lt;br/>&lt;br/>
+    1) Criação de 4 jogadores com vozes e imagens diferentes.&lt;br/>
+    2) Opção de alterar o jogador automaticamente ao fim de cada partida.&lt;br/>
+    3) Opção de definir a força de cada jogador.&lt;br/>    
+    4) Opção de enviar sinal das cartas.&lt;br/>
+    5) Opção de escolher quais cartas terão sinal.&lt;br/>
+    6) Opção de escolher como trucar: Voz e Mensagem, apenas mensagem ou apenas voz.&lt;br/>
+    7) Inclusão das regras completas do jogo para consulta.&lt;br/>
+    8) Inclusão da história do truco.&lt;br/>
+    9) Consulta aos códigos de sinais utilizados no jogo.&lt;br/>
+    10) Contagem de pontos corrigida para o truco mineiro. 2 Jogos de 12 pontos cada para ganhar uma queda.&lt;br/>
+    11) Exibição de estatísticas completas, total e por jogador.&lt;br/>
+    12) Inclusão de função que avalia a possibilidade de uma carta ser maior para decidir trucar ou aceitar.&lt;br/>
+    13) Código que tenta supor qual a maior e menor carta do adversário. Ex. Jogador fez uma Dama com uma Escopeta.
+    Possivelmente ele não tem outra carta maior do que a Dama.&lt;br/>
+    14) Mensagem de confirmação antes de fechar um jogo em andamento.&lt;br/>
+    15) Diversas modificações na estratégia do jogo para fazer os jogadores se portarem como os do truco mineiro.&lt;br/>
+    16) Retirada das opções de jogos multiplayer o opções que não são relativas ao truco mineiro.&lt;br/>
+    
+    &lt;br/>
+    Código-fonte: http://github.com/chesterbr/minitruco-android&lt;br/>&lt;br/>
+    A redistribuição e o uso nas formas binária e código fonte, com ou sem modificações, 
+    são permitidos contanto que as condições abaixo sejam cumpridas:&lt;br/>&lt;br/>
+    - Redistribuições do código fonte devem conter o aviso de direitos autorais acima, esta lista de 
+    condições e o aviso de isencão de garantias subsequente.&lt;br/>&lt;br/>
+    - Redistribuições na forma binária devem reproduzir o aviso de direitos autorais acima, 
+    esta lista de condições e o aviso de isenção de garantias subsequênte na documentação 
+    e/ou materiais fornecidos com a distribuição.&lt;br/>&lt;br/>
+    - Nem o nome do Chester, nem o nome dos contribuidores podem ser utilizados para endossar ou 
+    promover produtos derivados deste software sem autorização prévia específica por escrito.&lt;br/>&lt;br/>
+    ESTE SOFTWARE É FORNECIDO PELOS DETENTORES DE DIREITOS AUTORAIS E CONTRIBUIDORES "COMO ESTÁ", 
+    ISENTO DE GARANTIAS EXPRESSAS OU TÁCITAS, INCLUINDO, SEM LIMITAÇÃO, QUAISQUER GARANTIAS IMPLLÍCITAS 
+    DE COMERCIABILIDADE OU DE ADEQUAÇÃO A FINALIDADES ESPECÍFICAS. EM NENHUMA HIPÓTESE OS TITULARES DE 
+    DIREITOS AUTORAIS E CONTRIBUIDORES SERÃO RESPONSÁVEIS POR QUAISQUER DANOS, DIRETOS, INDIRETOS, 
+    INCIDENTAIS, ESPECIAIS, EXEMPLARES OU CONSEQUENTES, (INCLUINDO, SEM LIMITAÇÃO, FORNECIMENTO DE 
+    BENS OU SERVIÇOS SUBSTITUTOS, PERDA DE USO OU DADOS, LUCROS CESSANTES, OU INTERRUPCÃO DE ATIVIDADES), 
+    CAUSADOS POR QUAISQUER MOTIVOS E SOB QUALQUER TEORIA DE RESPONSABILIDADE, SEJA RESPONSABILIDADE CONTRATUAL, 
+    RESTRITA, ILÍCITO CIVIL, OU QUALQUER OUTRA, COMO DECORRÊNCIA DE USO DESTE SOFTWARE, MESMO QUE HOUVESSEM 
+    SIDO AVISADOS DA POSSIBILIDADE DE TAIS DANOS.&lt;br/>&lt;br/>
+		
+    </string><string-array name="balao_aumento_sim">
+        <item>Mostra Ladrão!</item>
+        <item>Eu Quero ver!</item>
+        <item>Mostra as cartas!</item>
+        <item>Joga ladrão!</item>
+    </string-array><string-array name="balao_abortou">
+        <item>Tchau</item>
+    </string-array><string name="tituloSinalForca">Cartas para sinal</string><string name="tituloAdversario2">Adversário 2</string><string name="textoDoisFechada">Apenas um jogador da dupla pode jogar carta coberta por rodada</string><string name="mConfiguracoes">Configurações</string><string name="tituloAdversario1">Adversário 1</string><string name="mSinais">Sinais</string><string name="textoRevesar">Trocar de jogador automáticamente a cada  partida</string><string name="tituloParceiro">Parceiro</string><string name="mCreditos">Créditos</string><string-array name="jogadorValor">
+        <item>0</item>
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+    </string-array><string name="sequenciaSinal">Sequencia do Sinal</string><string name="tituloGrito">Gritos do jogo</string><string-array name="forcaSinalValores">
+    	<item>0</item>
+    	<item>1</item>
+    	<item>2</item>
+    	<item>3</item>
+    	<item>4</item>
+    	<item>5</item>
+    	<item>6</item>
+    	<item>7</item>
+    	<item>8</item>
+    	<item>9</item>
+    	<item>10</item>
+    	<item>11</item>
+    	<item>12</item>
+    	<item>13</item>
+    </string-array><string name="atoa"/><string-array name="balao_aumento_1">
+        <item>Truco vagabundo!</item>
+        <item>Quero Truco</item>
+        <item>Truuuco!</item>
+        <item>Truco Ladrão</item>
+    </string-array><string-array name="balao_aumento_2">
+        <item>Seis Ladrão!</item>
+        <item>Meia Vara!</item>
+        <item>Seeeeiiis!</item>
+        <item>Seis só!</item>
+    </string-array><string name="mRegras">Regras</string><string-array name="balao_aumento_3">
+        <item>Então é Nove!</item>
+        <item>Quero Nove!</item>
+        <item>Nooooveee!</item>
+        <item>Nove ladrão!</item>
+    </string-array><string name="textoGrito">Controla como o jogador irá dizer as frases do jogo.</string><string-array name="balao_mao11_sim">
+        <item>Pode jogar.</item>
+        <item>Bate carta.</item>
+        <item>Cai carta.</item>
+        <item>Joga que eu tenho!</item>
+    </string-array><string name="textoSinal">Controla como o jogador do computador vai passar sinal</string><string-array name="revezarValores">
+    	<item>0</item>
+    	<item>1</item>
+    	<item>2</item>
+    	<item>3</item>
+    </string-array><string name="tituloEles">: 0</string><string name="tituloMaoDezAberta">Mão de dez aberta</string><string name="textoAbreQuemAmarra">O jogador que amarrou na primeira rodada é o primeiro a mostrar a carta maior</string><string-array name="balao_aumento_4">
+        <item>Então é Nove!</item>
+        <item>Quero Nove!</item>
+        <item>Nooooveee!</item>
+        <item>Nove ladrão!</item>
+    </string-array><string name="tituloSinal">Passar Sinal</string><string name="textoParceiro">Selecione a agressividade do seu parceiro.</string><string name="hello">Use o log (adb logcat no SDK) para debugar</string><string name="tituloAbreQuemAmarra">Primeira rodada amarrada</string><string-array name="sinalValores">
+    	<item>0</item>
+    	<item>1</item>
+    	<item>2</item>
+    	<item>3</item>
+    	<item>4</item>
+    	<item>5</item>
+    </string-array><string name="cartaCadastrarSinal">Carta:</string><string name="tituloRevesar">Revezar Jogador</string><string name="app_name">Truco Mineiro</string><string name="mAjuda">Ajuda</string><string name="textoAdversario2">Selecione a agressividade do adversário que fica a sua esquerda </string><string name="textoAdversario1">Selecione a agressividade do adversário que fica a sua direita.</string><string name="mHistoria">História</string><string name="titulo_sobre">Estatísticas do jogo</string><string-array name="forcaSinalTitulos">
+    	<item>Zap</item>
+    	<item>Escopeta</item>
+    	<item>Espadilha</item>
+    	<item>Pica-Fumo</item>
+    	<item>Três</item>
+    	<item>Dois</item>
+    	<item>Az</item>
+    	<item>Rei</item>
+    	<item>Valete</item>
+    	<item>Dama</item>
+    	<item>Sete</item>
+    	<item>Seis</item>
+    	<item>Cinco</item>
+    	<item>Quatro</item>
+    </string-array><string name="textoMaoDezAberta">Na mão de dez o parceiro pode ver as cartas do outro</string><string-array name="valoresGrito">
+        <item>0</item>
+        <item>1</item>
+        <item>2</item>
+    </string-array><string name="mSair">Sair</string><string name="titulo_sinais">Sinais do jogo</string><string name="textoSinalForca">Informa a partir de qual carta o sistema irá passar os sinais</string><string name="tituloDoisFechada">Cartas cobertas</string><string-array name="forcaTitulo">
+        <item>Aleatorio</item>
+        <item>Medroso</item>
+        <item>Cauteloso</item>
+        <item>Normal</item>
+        <item>Trucador</item>
+        <item>Ladrao</item>
+    </string-array><string name="texto_regras">         
+        Estas são as regras do truco utilizadas em Belo Horizonte-MG. Não existe um conjunto de regras universal para
+        o truco, por isso é bom ler estas regras atentamente antes de iniciar o jogo.&lt;br/>&lt;br/> 
+        O Truco é jogado em duplas, com os parceiros frente a frente. O objetivo é fazer a sua dupla conquistar 2 jogos de 12 pontos cada antes da 
+		dupla adversária. 
+		&lt;br/>&lt;br/>&lt;b>&lt;u>Disbribuindo as cartas&lt;/u>&lt;/b>: O jogador deverá embralhar as cartas e solicitar que 
+		o adversário a esquerda corte o baralho. Então o jogador que embaralhou deverá distribuir três cartas (todas ao mesmo tempo) 
+		para cada participante no sentido anti-horário, começando pelo adversário que estiver imediatamente a sua direita.
+		&lt;br/>&lt;br/>&lt;b>&lt;u>Atravessando as cartas&lt;/u>&lt;/b>: O jogador que cortar o baralho pode, a seu critério
+		entregar as cartas para os participantes na ordem que desejar. Ele pode também distribuir as cartas para
+		alguns jogadores e solicitar que o jogoador que embaralhou entregue as cartas para os demais. Não é permitido 
+		atravessar cartas na mão de 10.
+		&lt;br/>&lt;br/>&lt;b>&lt;u>Queimando as cartas&lt;/u>&lt;/b>: O Jogador que for o primeiro a receber as cartas poderá,
+		a seu critério, descartar as cartas, sempre descartando três cartas de cada vez, até um total de 9 cartas
+		descartadas. As cartas \"queimadas\" devem ser colocadas embaixo do baralho sem que os jogadores vejam.
+		Não é permitido queimar cartas na mão de 10.
+		&lt;br/>&lt;br/>&lt;b>&lt;u>Sequencia do baralho&lt;/u>&lt;/b>: A cada jogada o baralho deverá mudar de mão, passando para
+		o jogador que estiver imediatamente a direita do jogador que embaralhou na jogada anterior.
+		&lt;br>&lt;br>&lt;b>&lt;u>Iniciando a jogada&lt;/u>&lt;/b>: O jogador que estiver imediatamente a direita do jogador que 
+		embaralhou as cartas deverá iniciar a partida. Na sequencia os jogadores deverão continuar jogando no sentido
+		anti-horário sendo que o jogador que embralhou as cartas será o último a jogar, ou como é normalmente chamado,
+		ele será o \"Pé\".
+		&lt;br/>&lt;br/>&lt;b>&lt;u>Jogando&lt;/u>&lt;/b>: Cada jogador escolhe na sua vez uma carta para jogar. 
+		A dupla que jogou a	maior carta ganha a rodada, e o	vencedor inicia a rodada seguinte. Quem vencer 
+		duas rodadas ganha dois pontos, encerrando a mão.		 
+		&lt;br/>&lt;br/>&lt;b>&lt;u>Valor das Cartas&lt;/u>&lt;/b>: Dentre as cartas normais, 4 é a menor carta, seguida de
+		5, 6, 7, Q, J, K, A, 2, e 3 é a maior de todas, sendo os naipes
+		indiferentes. As manilhas - cartas especiais que valem mais
+		que as normais, são: o pica-fumo
+		(7♦) é a menor manilha, seguida da espadilha (A♠), da escopeta (7♥), e do
+		zap (4♣). O zap (quatro de paus) é, portanto, a carta de maior valor
+		do jogo.
+		&lt;br/>&lt;br/>&lt;b>&lt;u>Aumento&lt;/u>&lt;/b>: Na sua vez, um jogador pode pedir \"truco\". Se os dois adversários
+		recusarem, perdem a mão, mas se pelo menos um aceitar, a mão passa a
+		valer 4 pontos. Um adversário pode, na sua vez, pedir \"seis\" ou \"nove\", 
+	    aumentando a aposta para 8 ou 12 pontos.&lt;br/>&lt;br/>
+		&lt;b>&lt;u>Empate&lt;/u>&lt;/b>: Um empate na primeira ou segunda rodada é decidido pela rodada
+		seguinte. Um empate após a primeira é decidido pelo resultado da
+		primeira.
+		&lt;br/>&lt;br/>&lt;b>&lt;u>Pontuação e fim da partida&lt;/u>&lt;/b>: A equipe que alcançar 12 pontos primeiro ganha um jogo. Sempre
+		que uma equipe vence um jogo a pontuação de ambas é zerada e é iniciado um novo jogo. A equipe que fizer dois jogos,
+		consecutivos ou não, vencerá a partida.
+		&lt;br/>&lt;br/>&lt;b>&lt;u>Mão de 10&lt;/u>&lt;/b>: Se uma das duplas fizer 10 pontos (mas a outra não), seus
+		membros podem ver as cartas do parceiro antes de começar o jogo. Se um dos jogadores da equipe que tiver
+		10 pontos aceitar jogar, a mão passa a valer 4 pontos. Se os dois recusarem, a equipe adversária ganha dois pontos, 
+		e uma nova mão é distribuída, valendo as mesmas regras. Na mão de 10 não é permitido trucar 
+		nem cobrir as cartas.&lt;br/>&lt;br/>
+		&lt;b>&lt;u>Outras Regras&lt;/u>&lt;/b>: O jogador pode escolher jogar uma carta coberta (com o valor virado para baixo) 
+		de forma que os outros jogadores não vão saber o valor de sua carta. Sempre que a carta for jogada coberta ela
+		não terá valor. Não é permitido cobrir as cartas na mão de 10 e nem na primeira rodada de cada mão.&lt;br/>&lt;br/>
+		Como o jogo é jogado em duplas, é muito importante saber como está a mão do parceiro. Mas você não deve perguntar
+		e nem falar suas cartas para o parceiro. Apesar disso não ser proibido pelas regras do jogo, não será interessante
+		falar as cartas pois os adversários também ficarão sabendo. É comum utilizar um sistema de sinais previamente
+		combinado para comunicar as cartas com os parceiros sem que os adversários fiquem sabendo.
+		
+    </string><string-array name="titulosGrito">
+        <item>Som e Balão</item>
+        <item>Apenas Balão</item>
+        <item>Apenas Som</item>
+    </string-array></file><file name="opcoes" path="C:\Users\renat\StudioProjects\trucoMineiro\app\src\main\res\xml\opcoes.xml" qualifiers="" type="xml"/></source><source path="C:\Users\renat\StudioProjects\trucoMineiro\app\build\generated\res\rs\debug"/><source path="C:\Users\renat\StudioProjects\trucoMineiro\app\build\generated\res\resValues\debug"/></dataSet><dataSet config="debug" generated-set="debug$Generated"><source path="C:\Users\renat\StudioProjects\trucoMineiro\app\src\debug\res"/></dataSet><mergedItems/></merger>

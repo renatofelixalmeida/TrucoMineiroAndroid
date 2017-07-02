@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "C:\\Users\\renat\\StudioProjects\\trucoMineiro\\app\\build\\intermediates\\res\\merged\\release\\menu\\base.xml",
+        "source": "C:\\Users\\renat\\StudioProjects\\trucoMineiro\\app\\src\\main\\res\\menu\\base.xml"
+    },
+    {
+        "merged": "C:\\Users\\renat\\StudioProjects\\trucoMineiro\\app\\build\\intermediates\\res\\merged\\release\\menu\\truco.xml",
+        "source": "C:\\Users\\renat\\StudioProjects\\trucoMineiro\\app\\src\\main\\res\\menu\\truco.xml"
+    },
+    {
+        "merged": "C:\\Users\\renat\\StudioProjects\\trucoMineiro\\app\\build\\intermediates\\res\\merged\\release\\menu\\titulo.xml",
+        "source": "C:\\Users\\renat\\StudioProjects\\trucoMineiro\\app\\src\\main\\res\\menu\\titulo.xml"
+    }
+]
